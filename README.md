@@ -1,6 +1,6 @@
 # Augmented Forest Segmentation Benchmark
 
-This project benchmarks deep learning models, including **U-Net, Attention U-Net, DeepLabV3+, HRNet, and UNETR**, using **TensorFlow** to evaluate their performance in achieving precise segmentation of forest images. The main goal is to compare these models in terms of accuracy, robustness, and ability to capture fine details in complex forest environments.
+Ce projet benchmarke des modèles de deep learning, incluant **U-Net, Attention U-Net, DeepLabV3+, HRNet et UNETR**, en utilisant **TensorFlow** pour évaluer leurs performances dans la réalisation d'une segmentation précise des images forestières. L'objectif principal est de comparer ces modèles en termes de précision, de robustesse et de capacité à capturer les détails fins dans des environnements forestiers complexes.
 
 - 📄 Rapport du projet
 Un aperçu détaillé du travail réalisé est disponible dans le document suivant :
